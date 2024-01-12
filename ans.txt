@@ -1,0 +1,25 @@
+1)
+ls ./Exam/one/two/three/four/five
+
+2)
+cat >> ./Exam/one/two/three/four/44.txt 
+Hrishikesh
+
+3)cat >> ../../3.txt 
+Dac
+
+4)
+cat ../../3.txt 
+Dac
+
+5)
+rm ../../../222.txt 
+
+6)
+cd ../../../../
+
+7)rm --all  ./two/three/four/five
+
+8)rm -r ./two/three/four/ 
+
+9)rm -r ./two/three/ 
